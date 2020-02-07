@@ -1,0 +1,58 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3749666, 2019-04-19T01:31:17-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TTSupermolotNeue-BoldItalic by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/bold-italic/
+ * 
+ * Webfont: TTSupermolotNeue-Bold by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/bold/
+ * 
+ * Webfont: TTSupermolotNeue-ExpBlack by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/expanded-black/
+ * 
+ * Webfont: TTSupermolotNeue-ExpRegular by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/expanded-regular/
+ * 
+ * Webfont: TTSupermolotNeue-Italic by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/italic/
+ * 
+ * Webfont: TTSupermolotNeue-Regular by TypeType
+ * URL: https://www.myfonts.com/fonts/type-type/tt-supermolot-neue/regular/
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3749666
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2019 by Typetype. Designer Ivan Gladkikh, technical designers Philipp Nurullin, Marina Khodak, Nadezhda Polomoshnova, Roman Ershov. All rights reserved.
+ * 
+ * © 2019 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/393722");
+
+  
+@font-face {font-family: 'TTSupermolotNeue-BoldItalic';src: url('webfonts/393722_0_0.eot');src: url('webfonts/393722_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_0_0.woff2') format('woff2'),url('webfonts/393722_0_0.woff') format('woff'),url('webfonts/393722_0_0.ttf') format('truetype'),url('webfonts/393722_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'TTSupermolotNeue-Bold';src: url('webfonts/393722_1_0.eot');src: url('webfonts/393722_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_1_0.woff2') format('woff2'),url('webfonts/393722_1_0.woff') format('woff'),url('webfonts/393722_1_0.ttf') format('truetype'),url('webfonts/393722_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'TTSupermolotNeue-ExpBlack';src: url('webfonts/393722_2_0.eot');src: url('webfonts/393722_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_2_0.woff2') format('woff2'),url('webfonts/393722_2_0.woff') format('woff'),url('webfonts/393722_2_0.ttf') format('truetype'),url('webfonts/393722_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'TTSupermolotNeue-ExpRegular';src: url('webfonts/393722_3_0.eot');src: url('webfonts/393722_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_3_0.woff2') format('woff2'),url('webfonts/393722_3_0.woff') format('woff'),url('webfonts/393722_3_0.ttf') format('truetype'),url('webfonts/393722_3_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'TTSupermolotNeue-Italic';src: url('webfonts/393722_4_0.eot');src: url('webfonts/393722_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_4_0.woff2') format('woff2'),url('webfonts/393722_4_0.woff') format('woff'),url('webfonts/393722_4_0.ttf') format('truetype'),url('webfonts/393722_4_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'TTSupermolotNeue-Regular';src: url('webfonts/393722_5_0.eot');src: url('webfonts/393722_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/393722_5_0.woff2') format('woff2'),url('webfonts/393722_5_0.woff') format('woff'),url('webfonts/393722_5_0.ttf') format('truetype'),url('webfonts/393722_5_0.svg#wf') format('svg');}
+ 
